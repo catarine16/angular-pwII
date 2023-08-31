@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(35, 34, 34);
+}
+h1{
+    color: rgb(134, 75, 189);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 44pt;
+    font-style: oblique;
+    background-color: rgb(209, 182, 234);
+    margin-top: 0 auto;
+}
+h3{
+    color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    background-color: rgb(124, 91, 155);
+    font-style: normal;
+   margin-right: 10px;
+    padding: 20px;
+}
